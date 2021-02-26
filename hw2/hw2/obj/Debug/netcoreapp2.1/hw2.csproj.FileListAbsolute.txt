@@ -1,0 +1,11 @@
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\bin\Debug\netcoreapp2.1\hw2.deps.json
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\bin\Debug\netcoreapp2.1\hw2.runtimeconfig.json
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\bin\Debug\netcoreapp2.1\hw2.runtimeconfig.dev.json
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\bin\Debug\netcoreapp2.1\hw2.dll
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\bin\Debug\netcoreapp2.1\hw2.pdb
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\obj\Debug\netcoreapp2.1\hw2.csprojAssemblyReference.cache
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\obj\Debug\netcoreapp2.1\hw2.csproj.CoreCompileInputs.cache
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\obj\Debug\netcoreapp2.1\hw2.AssemblyInfoInputs.cache
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\obj\Debug\netcoreapp2.1\hw2.AssemblyInfo.cs
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\obj\Debug\netcoreapp2.1\hw2.dll
+C:\Users\hecker\source\repos\bcs426\hw2\hw2\obj\Debug\netcoreapp2.1\hw2.pdb
