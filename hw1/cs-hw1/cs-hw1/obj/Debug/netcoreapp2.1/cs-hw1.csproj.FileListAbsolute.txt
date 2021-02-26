@@ -1,0 +1,11 @@
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\obj\Debug\netcoreapp2.1\cs-hw1.csprojAssemblyReference.cache
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\obj\Debug\netcoreapp2.1\cs-hw1.csproj.CoreCompileInputs.cache
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\obj\Debug\netcoreapp2.1\cs-hw1.AssemblyInfoInputs.cache
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\obj\Debug\netcoreapp2.1\cs-hw1.AssemblyInfo.cs
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\bin\Debug\netcoreapp2.1\cs-hw1.deps.json
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\bin\Debug\netcoreapp2.1\cs-hw1.runtimeconfig.json
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\bin\Debug\netcoreapp2.1\cs-hw1.runtimeconfig.dev.json
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\bin\Debug\netcoreapp2.1\cs-hw1.dll
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\bin\Debug\netcoreapp2.1\cs-hw1.pdb
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\obj\Debug\netcoreapp2.1\cs-hw1.dll
+C:\Users\hecker\source\repos\cs-hw1\cs-hw1\obj\Debug\netcoreapp2.1\cs-hw1.pdb
